@@ -9,9 +9,8 @@ Operations on [Tensor](https://en.wikipedia.org/wiki/Tensor): *contributed to th
 https://en.wikipedia.org/wiki/Multilinear_multiplication
 * [Multilinear_multiplication](https://en.wikipedia.org/wiki/Multilinear_multiplication)
 * HoSVD
+<br/>
 
-\
-\
 
 HOSVD implemented by Jiahao Chen <jiahao@mit.edu>, 2010-06-11 \
 \
