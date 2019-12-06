@@ -6,7 +6,6 @@ Higher Order Singular Vector Decomposition([HoSVD](https://en.wikipedia.org/wiki
 Operations on [Tensor](https://en.wikipedia.org/wiki/Tensor): *contributed to the Wikipedia Entries*
 
 * [Mode-k Flattening](https://en.wikipedia.org/wiki/Mode-k_flattening)
-https://en.wikipedia.org/wiki/Multilinear_multiplication
 * [Multilinear_multiplication](https://en.wikipedia.org/wiki/Multilinear_multiplication)
 * HoSVD
 <br/>
