@@ -9,10 +9,12 @@ Operations on [Tensor](https://en.wikipedia.org/wiki/Tensor): *contributed to th
 https://en.wikipedia.org/wiki/Multilinear_multiplication
 * [Multilinear_multiplication](https://en.wikipedia.org/wiki/Multilinear_multiplication)
 * HoSVD
+
 \
 \
 
 HOSVD implemented by Jiahao Chen <jiahao@mit.edu>, 2010-06-11 \
+\
 as introduced in: \
     Lieven de Lathauwer, Bart de Moor, Joos Vandewalle, \
     'A multilinear singular value decomposition', \
