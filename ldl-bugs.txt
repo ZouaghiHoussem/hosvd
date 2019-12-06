@@ -1,0 +1,2 @@
+P:	example 2x2x2 R3=1 ??? (we: 2)
+P10/27:	A(n) = U Sigma V(H) ??? V not V(H)  #look at ldl-bug-flatten-rank.py
